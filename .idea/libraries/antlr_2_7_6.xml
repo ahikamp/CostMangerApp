@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="antlr-2.7.6">
+    <CLASSES>
+      <root url="jar://C:/code/HibernateSample/hibernate_sample/jars_this_code_sample_uses/antlr-2.7.6.jar!/" />
+      <root url="jar://C:/code/HibernateSample/hibernate_sample/jars_this_code_sample_uses/commons-collections-3.1.jar!/" />
+      <root url="jar://C:/code/HibernateSample/hibernate_sample/jars_this_code_sample_uses/dom4j-1.6.1.jar!/" />
+      <root url="jar://C:/code/HibernateSample/hibernate_sample/jars_this_code_sample_uses/hibernate-jpa-2.0-api-1.0.0.Final.jar!/" />
+      <root url="jar://C:/code/HibernateSample/hibernate_sample/jars_this_code_sample_uses/hibernate3.jar!/" />
+      <root url="jar://C:/code/HibernateSample/hibernate_sample/jars_this_code_sample_uses/javassist-3.9.0.GA.jar!/" />
+      <root url="jar://C:/code/HibernateSample/hibernate_sample/jars_this_code_sample_uses/jta-1.1.jar!/" />
+      <root url="jar://C:/code/HibernateSample/hibernate_sample/jars_this_code_sample_uses/log4j-1.2.16.jar!/" />
+      <root url="jar://C:/code/HibernateSample/hibernate_sample/jars_this_code_sample_uses/mysql-connector-java-5.1.13-bin.jar!/" />
+      <root url="jar://C:/code/HibernateSample/hibernate_sample/jars_this_code_sample_uses/slf4j-api-1.5.8.jar!/" />
+      <root url="jar://C:/code/HibernateSample/hibernate_sample/jars_this_code_sample_uses/slf4j-log4j12-1.5.6.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/Mycostmanagerapp/app/src/androidTest/java" />
+      <root url="file://$PROJECT_DIR$/Mycostmanagerapp/app/src/main/java" />
+      <root url="file://$PROJECT_DIR$/Mycostmanagerapp/app/src/test/java" />
+      <root url="file://$PROJECT_DIR$/costM/app/src/androidTest/java" />
+      <root url="file://$PROJECT_DIR$/costM/app/src/main/java" />
+      <root url="file://$PROJECT_DIR$/costM/app/src/test/java" />
+      <root url="file://$PROJECT_DIR$/il.ac.hit.costmanagerapp/src" />
+    </SOURCES>
+  </library>
+</component>

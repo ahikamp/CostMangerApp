@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class name="costmanagerapp.lib.Models.User" table="user">
+        <id name="Guid" type="int" column="Guid" >
+            <generator class="increment"/>
+        </id>
+        <property name="UserName"><column name="UserName"/></property>
+        <property name="Email"><column name="Email"/></property>
+        <property name="Password"><column name="Password"/></property>
+    </class>
+</hibernate-mapping>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22aaa163-a693-4f00-bdd4-2ef6edea3de4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/antlr_2_7_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Hit_ApplicationsCostManager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Hit_ApplicationsCostManager.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config.json" beforeDir="false" afterPath="$PROJECT_DIR$/Config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/costM/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/androidTest/java/com/example/mycostmanagerapp/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/assets/chk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/assets/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/assets/incomeoutcome.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/assets/incomeoutcomeJS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/assets/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/java/com/example/mycostmanagerapp/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/java/com/example/mycostmanagerapp/ModelView/IViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/java/com/example/mycostmanagerapp/ModelView/ViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/java/com/example/mycostmanagerapp/View.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/res/layout/content_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/res/layout/fragment_first.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/res/layout/fragment_second.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/res/menu/menu_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/res/navigation/nav_graph.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/app/src/test/java/com/example/mycostmanagerapp/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mycostmanagerapp/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/costM/app/src/main/assets/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/costM/app/src/main/assets/login.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1buY3JQ1BSnfHhU9ObOSsFfggzh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/il.ac.hit.costmanagerapp/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="costmanagerapp.Console.RestMain" />
+      <module name="Hit_ApplicationsCostManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="costmanagerapp.Console.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RestMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22aaa163-a693-4f00-bdd4-2ef6edea3de4" name="Default Changelist" comment="" />
+      <created>1596550683166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596550683166</updated>
+      <workItem from="1596550688140" duration="21327000" />
+      <workItem from="1596991059147" duration="1654000" />
+      <workItem from="1596993744442" duration="4986000" />
+      <workItem from="1597002379572" duration="42000" />
+      <workItem from="1597419570773" duration="69000" />
+      <workItem from="1597419664842" duration="761000" />
+      <workItem from="1601973262362" duration="1945000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="67" key="#Project_Structure" timestamp="1596551190351">
+      <screen x="0" y="0" width="1280" height="745" />
+    </state>
+    <state x="240" y="67" key="#Project_Structure/0.0.1280.745@0.0.1280.745" timestamp="1596551190351" />
+    <state x="391" y="177" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1596997946833">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="391" y="177" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1596997946833" />
+    <state x="481" y="147" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1596553772605">
+      <screen x="0" y="0" width="1280" height="745" />
+    </state>
+    <state x="481" y="147" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1280.745@0.0.1280.745" timestamp="1596553772605" />
+    <state x="516" y="56" key="DetectedRootsChooserDialog" timestamp="1596992635559">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="516" y="56" key="DetectedRootsChooserDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1596992635559" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1597419612083">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1597419612083" />
+    <state width="893" height="259" key="GridCell.Tab.0.bottom" timestamp="1597419639671">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="893" height="259" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1597419639671" />
+    <state width="1238" height="263" key="GridCell.Tab.0.bottom/0.0.1280.745@0.0.1280.745" timestamp="1596977903989" />
+    <state width="1238" height="58" key="GridCell.Tab.0.bottom/0.23.1280.722@0.23.1280.722" timestamp="1596980898898" />
+    <state width="893" height="259" key="GridCell.Tab.0.center" timestamp="1597419639671">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="893" height="259" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1597419639671" />
+    <state width="1238" height="263" key="GridCell.Tab.0.center/0.0.1280.745@0.0.1280.745" timestamp="1596977903988" />
+    <state width="1238" height="58" key="GridCell.Tab.0.center/0.23.1280.722@0.23.1280.722" timestamp="1596980898894" />
+    <state width="893" height="259" key="GridCell.Tab.0.left" timestamp="1597419639671">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="893" height="259" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1597419639671" />
+    <state width="1238" height="263" key="GridCell.Tab.0.left/0.0.1280.745@0.0.1280.745" timestamp="1596977903987" />
+    <state width="1238" height="58" key="GridCell.Tab.0.left/0.23.1280.722@0.23.1280.722" timestamp="1596980898892" />
+    <state width="893" height="259" key="GridCell.Tab.0.right" timestamp="1597419639671">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="893" height="259" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1597419639671" />
+    <state width="1238" height="263" key="GridCell.Tab.0.right/0.0.1280.745@0.0.1280.745" timestamp="1596977903989" />
+    <state width="1238" height="58" key="GridCell.Tab.0.right/0.23.1280.722@0.23.1280.722" timestamp="1596980898896" />
+    <state width="1238" height="58" key="GridCell.Tab.1.bottom" timestamp="1596980898704">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.bottom/0.0.1280.745@0.0.1280.745" timestamp="1596977903779" />
+    <state width="1238" height="58" key="GridCell.Tab.1.bottom/0.23.1280.722@0.23.1280.722" timestamp="1596980898704" />
+    <state width="1238" height="58" key="GridCell.Tab.1.center" timestamp="1596980898703">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.center/0.0.1280.745@0.0.1280.745" timestamp="1596977903777" />
+    <state width="1238" height="58" key="GridCell.Tab.1.center/0.23.1280.722@0.23.1280.722" timestamp="1596980898703" />
+    <state width="1238" height="58" key="GridCell.Tab.1.left" timestamp="1596980898702">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.left/0.0.1280.745@0.0.1280.745" timestamp="1596977903777" />
+    <state width="1238" height="58" key="GridCell.Tab.1.left/0.23.1280.722@0.23.1280.722" timestamp="1596980898702" />
+    <state width="1238" height="58" key="GridCell.Tab.1.right" timestamp="1596980898703">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.right/0.0.1280.745@0.0.1280.745" timestamp="1596977903778" />
+    <state width="1238" height="58" key="GridCell.Tab.1.right/0.23.1280.722@0.23.1280.722" timestamp="1596980898703" />
+    <state x="242" y="0" key="SettingsEditor" timestamp="1596992641224">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="242" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1596992641224" />
+    <state x="256" y="0" key="SettingsEditor/0.0.1280.745@0.0.1280.745" timestamp="1596569983384" />
+    <state x="387" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1601973657650">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="387" y="194" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1601973657650" />
+    <state x="387" y="213" key="com.intellij.ide.util.TipDialog/0.0.1280.745@0.0.1280.745" timestamp="1596550688111" />
+    <state x="455" y="276" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1596569922220">
+      <screen x="0" y="0" width="1280" height="745" />
+    </state>
+    <state x="455" y="276" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.745@0.0.1280.745" timestamp="1596569922220" />
+    <state x="68" y="73" key="new project wizard" timestamp="1596554236686">
+      <screen x="0" y="0" width="1280" height="745" />
+    </state>
+    <state x="68" y="73" key="new project wizard/0.0.1280.745@0.0.1280.745" timestamp="1596554236686" />
+  </component>
+</project>

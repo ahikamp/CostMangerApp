@@ -1,0 +1,33 @@
+option:checked {
+    display: none;
+}
+
+.sign-out-btn{
+    background: red !important;
+}
+
+
+.ui-icon-myicon {
+    background-image: url("../sources/icons/wallet.png");
+    /* Make your icon fit */
+}
+.log-in-de{
+    color:#F44336 !important;
+}
+.collapsein{
+    display: none;
+}
+
+.ui-li-static.ui-collapsible > .ui-collapsible-heading {
+    margin: 0;
+}
+.ui-li-static.ui-collapsible {
+    padding: 0;
+}
+.ui-li-static.ui-collapsible > .ui-collapsible-heading > .ui-btn {
+    border-top-width: 0;
+}
+.ui-li-static.ui-collapsible > .ui-collapsible-heading.ui-collapsible-heading-collapsed > .ui-btn,
+.ui-li-static.ui-collapsible > .ui-collapsible-content {
+    border-bottom-width: 0;
+}
